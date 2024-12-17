@@ -1,0 +1,12 @@
+,CountVectorizer,HashingVectorizer,TfidfVectorizer
+CalibratedClassifierCV,83% (1 ms / 0 ms),82% (1 ms / 0 ms),86% (0 ms / 0 ms)
+LogisticRegressionCV,81% (107 ms / 0 ms),82% (3122 ms / 0 ms),86% (62 ms / 0 ms)
+PassiveAggressiveClassifier,82% (0 ms / 0 ms),83% (0 ms / 0 ms),87% (0 ms / 0 ms)
+Perceptron,79% (0 ms / 0 ms),79% (0 ms / 0 ms),83% (0 ms / 0 ms)
+RidgeClassifier,82% (1 ms / 0 ms),82% (2 ms / 0 ms),86% (0 ms / 0 ms)
+RidgeClassifierCV,82% (0 ms / 0 ms),84% (1 ms / 0 ms),86% (0 ms / 0 ms)
+SGDClassifier,79% (0 ms / 0 ms),83% (0 ms / 0 ms),86% (0 ms / 0 ms)
+ComplementNB,85% (0 ms / 0 ms),,82% (0 ms / 0 ms)
+GaussianNB,81% (1 ms / 1 ms),,80% (1 ms / 1 ms)
+MLPClassifier,87% (12 ms / 0 ms),85% (2491 ms / 0 ms),86% (47 ms / 0 ms)
+LinearSVC,83% (0 ms / 0 ms),82% (0 ms / 0 ms),86% (0 ms / 0 ms)
